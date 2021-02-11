@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/HarkonnenDSM"
+                 "value":"meet.jit.si\/HarkonnenDSM"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"\/HarkonnenDSM"
+                 "value":"HarkonnenDSM"
                 }],
          "type":"tilelayer",
          "visible":true,
