@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"HarkonnenDSM"
+                 "value":"https:\/\/meet.jit.si\/HarkonnenDSM"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -135,41 +135,6 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "color":"#aa00ff",
-         "draworder":"topdown",
-         "id":15,
-         "name":"jitsi",
-         "objects":[
-                {
-                 "height":310,
-                 "id":1,
-                 "name":"jitsiDSM",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"https:\/\/meet.jit.si\/HarkonnenDSM"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":271,
-                 "x":1026,
-                 "y":298
-                }],
-         "opacity":0.46,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"https:\/\/meet.jit.si\/HarkonnenDSM"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
