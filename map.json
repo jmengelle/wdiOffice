@@ -228,7 +228,26 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":40,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ff007f",
+                     "fontfamily":"Mistral",
+                     "pixelsize":35,
+                     "text":"Bonjour le Monde",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":215,
+                 "x":690,
+                 "y":150.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -254,7 +273,7 @@
          "y":0
         }],
  "nextlayerid":20,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
